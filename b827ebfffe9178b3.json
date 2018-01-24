@@ -1,0 +1,17 @@
+"gateway_conf": {
+    "gateway_ID": "b827ebfffe9178b3",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -28.08522092,
+    "ref_longitude": 153.39481943,
+    "ref_altitude": 31,
+    "contact_email": "tommy@auc.solutions",
+    "description": "raspery pi 3 + ic880a gateway "
+  }
+}
