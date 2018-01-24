@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFE9178B3",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -28.08522092,
+    "ref_longitude": 153.39481943,
+    "ref_altitude": 40,
+    "contact_email": "tommy@auc.solutions",
+    "description": "TTN ic880a + raspberry pi 3"
+  }
+}
